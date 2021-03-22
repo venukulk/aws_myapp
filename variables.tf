@@ -21,5 +21,3 @@ type = string
 variable "PUBLIC_SUBNET_AZ" {
 type = string
 }
-
-variable "EKS_CLUSTER_NAME" {}
